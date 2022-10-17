@@ -14,8 +14,8 @@
 
 <div align="left">
   <a href="https://github.com/DevHonorato">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DevHonorato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="49.0%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHonorato&theme=dark&layout=compact&hide=HTML"/>
+  <img width="54.0%" src="https://github-readme-stats.vercel.app/api?username=DevHonorato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45.0%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHonorato&theme=dark&layout=compact&langs_count=6"/>
 </div>
 
 
