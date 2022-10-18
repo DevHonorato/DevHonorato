@@ -1,4 +1,4 @@
-## <div align="center">Olá, seja bem vindo! 👋</div>
+## Olá, seja bem vindo! 👋
 <br>
 <div align="center">
   <a href="https://github.com/DevHonorato">
@@ -8,7 +8,7 @@
 
 ##
 
-<div align="center" style="display: inline_block"><br>
+<div style="display: inline_block"><br>
   <img align="center" alt="Honorato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Honorato-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <!--<img align="center" alt="Honorato-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
