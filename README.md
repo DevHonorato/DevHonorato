@@ -20,7 +20,6 @@
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark" alt="devhonorato" />
 </div>
 
-<br>
 
 <div align="center">
   <a href="https://github.com/DevHonorato">
@@ -29,7 +28,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHonorato&theme=dark&layout=compact&langs_count=6"/>
 </div>
   
-  <br><br>
+<br>
   
 <div align="center"> 
   <a href="https://github.com/DevHonorato">
