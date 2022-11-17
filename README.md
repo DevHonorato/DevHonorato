@@ -15,10 +15,10 @@
 
 <br>
 
-<p align="center">
+<div align="center">
   <a href="https://github.com/DevHonorato">
    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark" alt="devhonorato" />
-</p>
+</div>
 
 <br>
 
@@ -32,6 +32,7 @@
   <br><br>
   
 <div align="center"> 
+  <a href="https://github.com/DevHonorato">
   <img height="25em" src="https://komarev.com/ghpvc/?username=devhonorato&label=Total%20de%20Visualizac%C3%B5es&color=333333&style=flat-square" alt="devhonorato" /> 
  </div>
 
