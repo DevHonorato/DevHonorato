@@ -1,22 +1,39 @@
-## Olá, seja bem vindo! 👋
 
-<div style="display: inline_block"><br>
+<h1 align="center">Hi 👋, I'm DevHonorato</h1>
+
+<!-- <h3 align="center">Languages</h3> -->
+
+<div align="center" style="display: inline_block">
   <img align="center" alt="Honorato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Honorato-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <!--<img align="center" alt="Honorato-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">-->
+  <img align="center" alt="Honorato-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Honorato-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Honorato-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <!--<img align="center" alt="Honorato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <img align="center" alt="Honorato-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
 
-##
+<br>
+
+<p align="center">
+  <a href="https://github.com/DevHonorato">
+   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark" alt="devhonorato" />
+</p>
+
+<br>
 
 <div align="center">
   <a href="https://github.com/DevHonorato">
+  <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark" alt="devhonorato" /> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevHonorato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHonorato&theme=dark&layout=compact&langs_count=6"/>
 </div>
+  
+  <br><br>
+  
+<div align="center"> 
+  <img height="25em" src="https://komarev.com/ghpvc/?username=devhonorato&label=Total%20de%20Visualizac%C3%B5es&color=333333&style=flat-square" alt="devhonorato" /> 
+ </div>
 
 
 <!--
