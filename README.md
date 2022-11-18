@@ -42,7 +42,7 @@
    <h3 align="center">Thank you! 😎</h3>
 <div align="center"> 
   <a href="https://github.com/DevHonorato">
-  <img height="25em" src="https://komarev.com/ghpvc/?username=devhonorato&label=Total%20Views&color=333333&style=flat-square" alt="devhonorato" /> 
+  <img height="25em" src="https://komarev.com/ghpvc/?username=devhonorato&label=Total%20Views&color=373837&style=flat-square" alt="devhonorato" /> 
  </div>
 
 
