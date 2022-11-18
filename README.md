@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm DevHonorato</h1>
+<h1 align="center">Hi👋, I'm DevHonorato</h1>
 
 <!-- <h3 align="center">Languages</h3> -->
 
@@ -45,6 +45,7 @@
   <img height="25em" src="https://komarev.com/ghpvc/?username=devhonorato&label=Total%20Views&color=333333&style=flat-square" alt="devhonorato" /> 
  </div>
 
+ <h3 align="center">Thank you! 😎</h3>
 
 <!--
 **DevHonorato/DevHonorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
