@@ -38,14 +38,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHonorato&theme=dark&layout=compact&langs_count=6"/>
 </div>
   
-<br>
   
+   <h3 align="center">Thank you! 😎</h3>
 <div align="center"> 
   <a href="https://github.com/DevHonorato">
   <img height="25em" src="https://komarev.com/ghpvc/?username=devhonorato&label=Total%20Views&color=333333&style=flat-square" alt="devhonorato" /> 
  </div>
 
- <h3 align="center">Thank you! 😎</h3>
+
 
 <!--
 **DevHonorato/DevHonorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
