@@ -40,7 +40,7 @@
   
   <br>
   <div align="center">
-    <a href="https://super-trunfo-paises.web.app/super-trunfo">
+    <a href="https://qrfy.com/p/jagXotRJ3T">
       <img height="180em" src="https://firebasestorage.googleapis.com/v0/b/super-trunfo-paises.appspot.com/o/Super%20Trunfo.jpeg?alt=media&token=cc3ab296-5e9c-40ec-afda-d62928e90678"/>
   </div>
 
