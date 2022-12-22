@@ -41,7 +41,7 @@
   <br>
   <div align="center">
     <a href="https://super-trunfo-paises.web.app/super-trunfo">
-      <img height="180em" src="https://firebasestorage.googleapis.com/v0/b/super-trunfo-paises.appspot.com/o/super-trunfo.jpg?alt=media&token=89101ad2-d429-4d9b-a5b6-0420e981d6b0"/>
+      <img height="180em" src="https://firebasestorage.googleapis.com/v0/b/super-trunfo-paises.appspot.com/o/Super%20Trunfo.jpeg?alt=media&token=cc3ab296-5e9c-40ec-afda-d62928e90678"/>
   </div>
 
    <h3 align="center">Thank you! 😎</h3>
