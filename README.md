@@ -40,8 +40,8 @@
   
   <br>
   <div align="center">
-    <a href="https://qrfy.com/p/jagXotRJ3T">
-      <img height="180em" src="https://firebasestorage.googleapis.com/v0/b/super-trunfo-paises.appspot.com/o/Super%20Trunfo.png?alt=media&token=258d3364-aa03-454b-bb2a-1e51ea6e4165"/>
+    <a href="https://super-trunfo-paises.web.app/super-trunfo">
+      <img height="150em" src="https://firebasestorage.googleapis.com/v0/b/super-trunfo-paises.appspot.com/o/Super%20Trunfo.png?alt=media&token=258d3364-aa03-454b-bb2a-1e51ea6e4165"/>
   </div>
 
    <h3 align="center">Thank you! 😎</h3>
