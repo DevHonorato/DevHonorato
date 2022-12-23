@@ -1,8 +1,5 @@
-
 <h1 align="center">Hi👋, I'm DevHonorato</h1>
-
 <!-- <h3 align="center">Languages</h3> -->
-
 <div align="center" style="display: inline_block">
   <img align="center" alt="Honorato-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Honorato-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -12,45 +9,46 @@
   <!--<img align="center" alt="Honorato-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">-->
   <img align="center" alt="Honorato-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-
 <br>
-
 <div align="center">
   <a href="https://github.com/DevHonorato">
-   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark" alt="devhonorato" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark" alt="devhonorato" />
 </div>
-
 <br>
-
 <div align="center">
   <a href="https://github.com/DevHonorato">
-  <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark" alt="devhonorato" /> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevHonorato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHonorato&theme=dark&layout=compact&langs_count=6"/> -->
+    <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark" alt="devhonorato" /> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevHonorato&show_icons=true&theme=dark&include_all_commits=true&count_private=true" />
+    <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHonorato&theme=dark&layout=compact&langs_count=6"/> -->
 </div>
-  
 <br>
-  
 <div align="center">
   <a href="https://github.com/DevHonorato">
-  <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark" alt="devhonorato" /> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevHonorato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHonorato&theme=dark&layout=compact&langs_count=6"/>
+    <!--<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=devhonorato&theme=dark" alt="devhonorato" /> -->
+    <!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DevHonorato&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevHonorato&theme=dark&layout=compact&langs_count=6" />
+</div>
+
+  
+<h3 align="center">Thank you! 😎</h3>
+<div align="center">
+  <a href="https://github.com/DevHonorato">
+    <img height="25em" src="https://komarev.com/ghpvc/?username=devhonorato&label=Total%20Views&color=373837&style=flat-square" alt="devhonorato" />
 </div>
   
-  <br>
-  <div align="center">
+
+ <div align="center">
+  <a href="https://super-trunfo-paises.web.app/super-trunfo">
+    <img height="150em" src="https://firebasestorage.googleapis.com/v0/b/super-trunfo-paises.appspot.com/o/Super%20Trunfo.png?alt=media&token=0db7ca70-8f36-45c6-9cf8-e7bdbc403668" />
+</div>
+  
+<div align="center">
+  <p style="font-size: 12px">
     <a href="https://super-trunfo-paises.web.app/super-trunfo">
-      <img height="150em" src="https://firebasestorage.googleapis.com/v0/b/super-trunfo-paises.appspot.com/o/Super%20Trunfo.png?alt=media&token=2b036ba9-a19d-421d-8d36-07783e9c9e35"/>
-  </div>
-
-   <h3 align="center">Thank you! 😎</h3>
-<div align="center"> 
-  <a href="https://github.com/DevHonorato">
-  <img height="25em" src="https://komarev.com/ghpvc/?username=devhonorato&label=Total%20Views&color=373837&style=flat-square" alt="devhonorato" /> 
- </div>
-
-
+      SCAN OR CLICK HERE
+    </a>
+  </p>
+</div>
 
 <!--
 **DevHonorato/DevHonorato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
