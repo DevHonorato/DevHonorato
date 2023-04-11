@@ -38,13 +38,13 @@
   
 
  <div align="center">
-  <a href="https://super-trunfo-paises.web.app/super-trunfo">
+  <a href="https://super-trunfo-paises.web.app/">
     <img height="150em" src="https://firebasestorage.googleapis.com/v0/b/super-trunfo-paises.appspot.com/o/Super%20Trunfo.png?alt=media&token=0db7ca70-8f36-45c6-9cf8-e7bdbc403668" />
 </div>
   
 <div align="center">
   <p style="font-size: 12px">
-    <a href="https://super-trunfo-paises.web.app/super-trunfo">
+    <a href="https://super-trunfo-paises.web.app">
       SCAN OR CLICK HERE
     </a>
   </p>
