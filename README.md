@@ -42,15 +42,15 @@
   <!--https://github.com/ryo-ma/github-profile-trophy-->
 </div>
 
-<br>
+<!--<br>
 
 <a href="https://github.com/DevHonorato">
 <div align="center">
   
-  ![](https://github-readme-activity-graph.vercel.app/graph?username=devhonorato&theme=github-compact)
+  ![](https://github-readme-activity-graph.vercel.app/graph?username=devhonorato&theme=github-compact)-->
   <!--https://github.com/Ashutosh00710/github-readme-activity-graph-->
   
-</div>
+<!--</div>-->
     
 <h3 align="center">Thank you! 😎</h3>
 
