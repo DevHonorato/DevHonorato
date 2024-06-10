@@ -37,8 +37,8 @@
 
 <div align="center">
   
-  ![](https://github-profile-trophy.vercel.app/?username=DevHonorato&theme=onestar&no-frame=false&no-bg=true&margin-w=4)
-  
+  ![](https://github-profile-trophy.vercel.app/?username=DevHonorato&theme=onestar&no-frame=false&no-bg=true&margin-w=5&margin-h=5&row=2&column=4)
+  <!--https://github.com/ryo-ma/github-profile-trophy-->
 </div>
     
 <h3 align="center">Thank you! 😎</h3>
