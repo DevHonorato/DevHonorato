@@ -35,6 +35,7 @@
 
 <br>
 
+<a href="https://github.com/DevHonorato">
 <div align="center">
   
   ![](https://github-profile-trophy.vercel.app/?username=DevHonorato&theme=onestar&no-frame=false&no-bg=true&margin-w=5&margin-h=5&row=2&column=4)
@@ -43,6 +44,7 @@
 
 <br>
 
+<a href="https://github.com/DevHonorato">
 <div align="center">
   
   ![](https://github-readme-activity-graph.vercel.app/graph?username=devhonorato&theme=github-compact)
